@@ -2,4 +2,4 @@
 
 * [Wolfram Alpha](http://www.wolframalpha.com/): 
 * [Mathway](https://mathway.com/): 
-* [Symbolab](https://www.symbolab.com/solver/): 
+* [Symbolab](https://www.symbolab.com/solver/): Provides step by step solutions.
