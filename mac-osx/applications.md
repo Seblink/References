@@ -5,7 +5,7 @@ An overview of various useful applications for Mac OS X.
 ## ClamAV
 Open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
 * [Homepage](http://www.clamav.net/)
-* [Installation](http://wiki.stocksy.co.uk/wiki/Virus_scanning/) 
+* [Installation](clamav.md) 
 
 # Package management
 
