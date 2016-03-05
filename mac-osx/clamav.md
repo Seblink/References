@@ -58,4 +58,4 @@ You'll get a handy summary of your scan:
     
 # Disclaimer
 
-Guide originally found on http://wiki.stocksy.co.uk/wiki/Virus_scanning/. 
+Guide originally found on http://wiki.stocksy.co.uk/wiki/Virus_scanning. 
