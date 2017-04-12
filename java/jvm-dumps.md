@@ -12,8 +12,7 @@ The following commands can be used to request the Java Virtual Machine to make a
 
 # Loaded classes
 
-`jmap -histo:live [PID] > /hybris/dump.out`
-
+`jmap -histo:live [PID] > /mydirectory/loaded-classes.out`
 
 # Thread dump analyzers
 
